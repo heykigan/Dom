@@ -12,5 +12,10 @@
             "name": "Kigan Khadka",
             "email": "kiganbot@gmail.com"
         }
-    ]
+    ],
+    "autoload":{
+        "psr-4": {
+            "user\\Dom\\": "./src"
+        }
+    }
 }
