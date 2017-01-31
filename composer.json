@@ -1,0 +1,16 @@
+{
+    "name": "user/dom",
+    "description": "Enhancement to the DOMDocument\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[CPHP DomDocument.",
+    "type": "library",
+    "require": {
+        "php": "^5.6",
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kigan Khadka",
+            "email": "kiganbot@gmail.com"
+        }
+    ]
+}
